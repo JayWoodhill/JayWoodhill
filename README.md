@@ -1,5 +1,5 @@
-##👋 Hello:)
-Authors(Aristotle, Plato, Nietszche, Marcus Aurelius, Jana Pittman, Michio Kaku, Kevin McIsaac, Ed Smith, Amos Tversky, Daniel Kahnemann, Peter Attia, Jeffery Owens, Einstein, Newton, Antonio Padilla, Katie Spalding, Machiavelli, Hsing Yun, Olivier Sibony, Cass Sunstein, Clementine Ford, Frank Amthor, Kant, Schopenhauer, Beethoven, Gautama, Zeno)
+##👋 Hello:)  
+Authors(Aristotle, Plato, Nietszche, Marcus Aurelius, Jana Pittman, Michio Kaku, Kevin McIsaac, Ed Smith, Amos Tversky, Daniel Kahnemann, Peter Attia, Jeffery Owens, Einstein, Newton, Antonio Padilla, Katie Spalding, Machiavelli, Hsing Yun, Olivier Sibony, Cass Sunstein, Clementine Ford, Frank Amthor, Kant, Schopenhauer, Beethoven, Gautama, Zeno)  
 | Gautama             | circa 563-483 BCE | |
 | Socrates            | 469-399 BCE | |
 | Zeno                | circa 490-430 BCE | |
