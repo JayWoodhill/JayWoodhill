@@ -33,8 +33,8 @@ Authors(Aristotle, Plato, Nietszche, Marcus Aurelius, Jana Pittman, Michio Kaku,
   
 
 Gautama	circa 563-483 BCE	  
-Socrates	469-399 BCE	 
-Zeno	circa 490-430 BCE  	
+Socrates	469-399 BCE	  
+Zeno	circa 490-430 BCE  	 
 Plato	428/427-348/347 BCE  	
 Aristotle	384-322 BCE	  
 Marcus Aurelius	121-180 CE	
